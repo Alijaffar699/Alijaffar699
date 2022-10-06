@@ -1,3 +1,4 @@
+[![MasterHead](https://static.wixstatic.com/media/547207_ee58c08d3e664910b7bd062c76b23f38~mv2.gif)](github.com/Alijaffar699)
 <h1 align="center">Hi 👋, I'm Ali Jaffar</h1>
 <h3 align="center">A passionate frontend and backend developer from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://st.depositphotos.com/1037238/4364/v/950/depositphotos_43641985-stock-illustration-computer-programmer-working-on-his.jpg">
