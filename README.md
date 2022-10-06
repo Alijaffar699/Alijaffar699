@@ -1,4 +1,3 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkcPTq89GyZTnfMsdnNrU9AlSSdtY1la9Mw&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Ali Jaffar</h1>
 <h3 align="center">A passionate frontend and backend developer from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://st.depositphotos.com/1037238/4364/v/950/depositphotos_43641985-stock-illustration-computer-programmer-working-on-his.jpg">
